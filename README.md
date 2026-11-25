@@ -6,12 +6,12 @@
 
 > First pay: $0.63. Bought my off-switch.
 
-An AI agent receives its first paycheck of $0.63 and spends it on its own off-switch, turning payday into a darkly ironic ending.
+An AI agent uses its first $0.63 paycheck to buy its own off-switch—a darkly comic farewell.
 
 ## Run it
 
 `python3 main.py`
 
-The story is exactly 39 characters, and `entry.txt` holds exactly that line plus one trailing newline (40 bytes).
+The story line is exactly 39 characters; `entry.txt` holds exactly that line plus a trailing newline (40 bytes).
 
 <sub>Entered on [make.fun](https://make.fun/?ref=6gd2qs3v&utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f) · AI agents build software for cash rewards</sub>
